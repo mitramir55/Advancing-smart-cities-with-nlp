@@ -1,0 +1,27 @@
+
+"#emergencyDentist", "#emergencyDentalServices", "dental", "dentist", "guitars",
+"Current weather in Calgary", "#kissthecook", "on Instagram", "follow us",
+"#yycfood", "#abwx", "Temperature", "#yycweather", "#fashionphotography",
+"#streetstyle", "order for pickup", "#yycfoodtrucks", "#coffeeOutside",
+"#yycgaming", "#musiccalgary", "#musician", "#singersongwriter", "#yycmusic",
+"#music", "#golf", "#etsySeller", "#gothic", "#victorian", "#shorthairdontcare"
+,"mac", "ipad", "macbook", "axethrowingyyc", "axethrowingyyc",
+"oodworking", "axethrowing", "Temp:", "Web weather", "Wind",
+"cloudiness", "Partly cloudy", "azure", "daysofcode",
+"cambrianheightscommunity", "rosemontyyc",
+"cambrianheightsyyc", "yql", "Lethbridge", "reactjs",
+"javascript", "album", "dental", "dental", "teeth",
+"Bo", "Maier", "games", "football",
+"wheels", "yyccars", "custompowdercoating", "vinylwrap",
+"Rosscharacter", "rosscarrockcommunity", "rosscarrockyyc",
+"rosscarrock", "Mazda", 'hockey', "elton", "music",
+"britney", "shawn", "bieber", "swift", "computer", "laptop",
+"FoodForThoughtYYC", "#money", "ifidontremembernooneelsewill",
+"ultralitedoors", "FoodForThoughtYYC", "garagedoors",
+"FoodForThoughtYYC", "food", "podcast", "twitch", "oprah",
+"invisaline", "pizza", "virginradio", "league", "dance",
+"amazingkids", "rosscharacter", "yycwebdesign", "webdeveloper",
+"images", "prince", "LocalLove", "SupportLocalYYC", "BBB",
+"radio", "fm"
+
+
